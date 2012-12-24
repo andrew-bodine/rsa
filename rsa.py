@@ -1,6 +1,4 @@
-# Andrew C. Bodine
 # RSA Encryption
-# Assignment #3
 
 ## Import(s) ##
 import sys, random, pickle
